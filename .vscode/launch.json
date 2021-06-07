@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Jonatan Rest API<JonatanRestAPI>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.jonatan.springboot.rest.Myapplication",
+            "projectName": "JonatanRestAPI",
+            "args": ""
+        }
+    ]
+}
