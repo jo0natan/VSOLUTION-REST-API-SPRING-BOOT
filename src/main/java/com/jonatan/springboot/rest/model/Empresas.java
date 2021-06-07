@@ -137,6 +137,6 @@ public class Empresas {
 
 	@Override
 	public String toString() {
-		return "Empresas [id=" + id + ", name=" + nome + ", moeda=" + moeda + ", cnpj=" + cnpj + "]";
+		return "Empresas [id=" + id + ", nome=" + nome + ", moeda=" + moeda + ", cnpj=" + cnpj + "]";
 	}
 }
